@@ -1,4 +1,4 @@
-# Git_Challange
-for first challange
+# Git_Challenge
+for first challenge
 
 ## Project Notes
